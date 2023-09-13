@@ -15,3 +15,11 @@ Por lo que me ha ayudado a comprender cómo gestionar tipos de datos constantes 
 
 # Problemas y Soluciones
 El problema que tuve con este trabajo práctico fue cuando declaré las relaciones. El problema en si fue el uso de cascade = CascadeType.ALL, al usar cascade me daba un error al ejecutar el código, la única solución que encontré fue quitarlo, fue lo único que solucionó el problema.
+
+# Ejecución del Proyecto
+Para ejecutar el proyecto TP1 JPA, siga estos pasos:
+
+Clone el repositorio desde URL del repositorio.
+Configure su entorno de desarrollo para Java y Spring Boot.
+Abra el proyecto en Intellij IDEA.
+Ejecute la clase Tp1JpaApplication.
