@@ -19,7 +19,7 @@ El problema que tuve con este trabajo práctico fue cuando declaré las relacion
 # Ejecución del Proyecto
 Para ejecutar el proyecto TP1 JPA, siga estos pasos:
 
-Clone el repositorio desde URL del repositorio.
-Configure su entorno de desarrollo para Java y Spring Boot.
-Abra el proyecto en Intellij IDEA.
-Ejecute la clase Tp1JpaApplication.
+1. Clone el repositorio desde URL del repositorio.
+2. Configure su entorno de desarrollo para Java y Spring Boot.
+3. Abra el proyecto en Intellij IDEA.
+4. Ejecute la clase Tp1JpaApplication.
