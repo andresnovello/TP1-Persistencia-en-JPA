@@ -13,5 +13,5 @@ He aprendido cómo definir estas relaciones y cómo se traducen en la base de da
 En este trabajo práctico tuve que usar enumeraciones (enums) para representar información estática en el sistema, como el estado de un pedido (EstadoPedido), la forma de pago (FormaPago), el tipo de envío (TipoEnvio), y el tipo de producto (TipoProducto). 
 Por lo que me ha ayudado a comprender cómo gestionar tipos de datos constantes que pueden ser mapeados a columnas de una base de datos relacional.
 
-#Problemas y Soluciones
+Problemas y Soluciones
 El problema que tuve con este trabajo práctico fue cuando declaré las relaciones. El problema en si fue el uso de cascade = CascadeType.ALL, al usar cascade me daba un error al ejecutar el código, la única solución que encontré fue quitarlo, fue lo único que solucionó el problema.
