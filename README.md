@@ -6,7 +6,7 @@ Este Trabajo Práctico representa un sistema de ejemplo que utiliza Java Persist
 He aprendido a modelar entidades utilizando clases Java. Esto incluye la creación de objetos como Cliente, Domicilio, Pedido, Factura, DetallePedido, Producto, y Rubro.
 
 # 2. Mapeo de Relaciones
-La aplicación utiliza el mapeo de relaciones de JPA para establecer vínculos entre las diferentes entidades. Por ejemplo, se ha implementado la relación entre Cliente y Domicilio, Cliente y Pedido, Pedido y Factura, Pedido y DetallePedido, y DetallePedido y Producto.
+El sistema utiliza el mapeo de relaciones de JPA para establecer vínculos entre las diferentes entidades. Por ejemplo, se ha implementado la relación entre Cliente y Domicilio, Cliente y Pedido, Pedido y Factura, Pedido y DetallePedido, y DetallePedido y Producto.
 He aprendido cómo definir estas relaciones y cómo se traducen en la base de datos.
 
 # 3. Uso de Enumeraciones
